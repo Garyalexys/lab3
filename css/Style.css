@@ -1,0 +1,20 @@
+.Titulo{
+  	text-transform: uppercase;
+  	text-align: center;
+  	width: 100%;
+	background-color: green;
+}
+h3{ 
+	color: red;
+}
+body{
+	background-image: url("../dbz.jpg");
+	background-size: 100%;
+}
+.color{
+	background-color:rgba(212, 193, 193, 0.5);
+}
+p{
+	color:black;
+	width: 100%;
+}
